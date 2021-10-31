@@ -3,10 +3,10 @@ import java.util.*;
 import java.text.*;
 
 public class test_hotel{
-	public static final String roomsTxtFileName = "C:/Users/DELL/Documents/Programming/HotelBookingManagementSystem/data/rooms.txt";
-	public static final String guestsTxtFileName = "C:/Users/DELL/Documents/Programming/HotelBookingManagementSystem/data/guests.txt";
-	public static final String bookingsTxtFileName = "C:/Users/DELL/Documents/Programming/HotelBookingManagementSystem/data/bookings.txt";
-	public static final String paymentsTxtFileName = "C:/Users/DELL/Documents/Programming/HotelBookingManagementSystem/data/payments.txt";
+	public static final String roomsTxtFileName = "data/rooms.txt";
+	public static final String guestsTxtFileName = "data/guests.txt";
+	public static final String bookingsTxtFileName = "data/bookings.txt";
+	public static final String paymentsTxtFileName = "data/payments.txt";
 	public static final SimpleDateFormat ft = new SimpleDateFormat("yyyy-MM-dd");
 
 
